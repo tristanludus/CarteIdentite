@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CarteIdentite", "CarteIdentite\CarteIdentite.vcxproj", "{BCCC1568-CAAF-4A80-93A4-9A35B7E7AFF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCCC1568-CAAF-4A80-93A4-9A35B7E7AFF4}.Debug|x64.ActiveCfg = Debug|x64
+		{BCCC1568-CAAF-4A80-93A4-9A35B7E7AFF4}.Debug|x64.Build.0 = Debug|x64
+		{BCCC1568-CAAF-4A80-93A4-9A35B7E7AFF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCCC1568-CAAF-4A80-93A4-9A35B7E7AFF4}.Debug|x86.Build.0 = Debug|Win32
+		{BCCC1568-CAAF-4A80-93A4-9A35B7E7AFF4}.Release|x64.ActiveCfg = Release|x64
+		{BCCC1568-CAAF-4A80-93A4-9A35B7E7AFF4}.Release|x64.Build.0 = Release|x64
+		{BCCC1568-CAAF-4A80-93A4-9A35B7E7AFF4}.Release|x86.ActiveCfg = Release|Win32
+		{BCCC1568-CAAF-4A80-93A4-9A35B7E7AFF4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C1A3F3-8727-4198-BA73-EB53D9ABE30F}
+	EndGlobalSection
+EndGlobal
